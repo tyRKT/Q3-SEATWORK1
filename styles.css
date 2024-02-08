@@ -1,0 +1,35 @@
+
+p{
+ font-family: Georgia, serif;
+}
+
+.container {
+    background-color: #FFC0CB;
+}
+
+.border-bottom {
+    border-bottom: 30px solid #ffffff; 
+}
+
+.custom-container-color-1 {
+    background-color: #98DAF1; 
+}
+
+.custom-container-color-2 {
+    background-color: #81CB71; 
+}
+
+.custom-container-color-3 {
+    background-color: #CF9FFF; 
+}
+
+.custom-container-color-4 {
+    background-color: #FFD580; 
+}
+
+.bg-custom-color {
+    background-color: #f1f1f1;
+}
+
+body {
+    background-image: radial-gradient(#CF9FFF, #98DAF1);
